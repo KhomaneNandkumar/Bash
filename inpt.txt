@@ -1,0 +1,8 @@
+1
+ans.txt
+demo.sh
+forloop.sh
+inpt.txt
+input2.txt
+input.sh
+whileloop.sh

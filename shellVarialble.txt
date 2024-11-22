@@ -1,0 +1,7 @@
+$? -> Exit code of the Command
+$0 -> Prints the nae of the file itself
+$1....$9 -> positional Arguments used to passed the Arguments to the functions
+$# -> To Print the Number Of Arguments  
+$@ -> Printing All The Arguments
+$* -> Prints the args ina String Format 
+

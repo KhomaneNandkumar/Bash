@@ -1,0 +1,22 @@
+total 80
+-rwxrwxrwx 1 nandkumarkhomane nandkumarkhomane  31 Sep 13 16:14 01basic.sh
+-rw-rw-r-- 1 nandkumarkhomane nandkumarkhomane 285 Sep 13 16:24 03Varible.sh
+-rw-rw-r-- 1 nandkumarkhomane nandkumarkhomane 586 Sep 13 16:40 04array.sh
+-rw-rw-r-- 1 nandkumarkhomane nandkumarkhomane 206 Sep 13 16:44 05key_value.sh
+-rw-rw-r-- 1 nandkumarkhomane nandkumarkhomane 541 Sep 13 16:59 06String.sh
+-rw-rw-r-- 1 nandkumarkhomane nandkumarkhomane 167 Sep 13 17:18 07Userinput.sh
+-rw-rw-r-- 1 nandkumarkhomane nandkumarkhomane 118 Sep 13 17:45 08Arithmatic_ops.sh
+-rw-rw-r-- 1 nandkumarkhomane nandkumarkhomane 184 Sep 13 17:57 09ifelse.sh
+-rw-rw-r-- 1 nandkumarkhomane nandkumarkhomane 225 Sep 13 18:01 10elif.sh
+-rw-rw-r-- 1 nandkumarkhomane nandkumarkhomane 260 Sep 13 18:09 11case.sh
+-rw-rw-r-- 1 nandkumarkhomane nandkumarkhomane 309 Sep 13 22:23 12logicaloperator.sh
+-rw-rw-r-- 1 nandkumarkhomane nandkumarkhomane 121 Sep 13 22:28 13ternaryops.sh
+-rw-rw-r-- 1 nandkumarkhomane nandkumarkhomane 212 Sep 13 22:33 forloop.sh
+-rw-rw-r-- 1 nandkumarkhomane nandkumarkhomane  31 Sep 13 22:36 names.txt
+-rw-rw-r-- 1 nandkumarkhomane nandkumarkhomane 169 Sep 13 23:04 for_with_file.sh
+-rw-rw-r-- 1 nandkumarkhomane nandkumarkhomane 235 Sep 13 23:06 for_with_array.sh
+-rw-rw-r-- 1 nandkumarkhomane nandkumarkhomane 101 Sep 13 23:09 whileloop.sh
+-rw-rw-r-- 1 nandkumarkhomane nandkumarkhomane  68 Sep 13 23:14 untilloop.sh
+-rw-rw-r-- 1 nandkumarkhomane nandkumarkhomane  61 Sep 13 23:15 infinitewhile.sh
+-rw-rw-r-- 1 nandkumarkhomane nandkumarkhomane  62 Sep 13 23:17 infinitefor.sh
+-rw-rw-r-- 1 nandkumarkhomane nandkumarkhomane   0 Sep 13 23:19 ls.txt
